@@ -1,2 +1,2 @@
 # DataSets_DataScience
-DataSets formato CSV, XLXS, ETC para la explotación de datos
+DataSets formato CSV, XLSX, ETC para la explotación de datos
